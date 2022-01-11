@@ -1,0 +1,88 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Alaunstein	Alunit	KAl3(SO4)2(OH)6
+Antichlor	Natriumthiosulfat	Na2S2O3
+Ätzkali	Kaliumhydroxid	KOH
+Ätzkalk	Calciumoxid	CaO
+Ätznatron	Natriumhydroxid	NaOH
+Backpulver	Natriumhydrogencarbonat	NaHCO3
+Backpulver	Dinatriumdihydrogendiphosphat	Na2H2P2O7
+Barytsalpeter	Bariumnitrat	Ba(NO3)2
+(lösliches) Berliner Blau	Kaliumhexacyanoferrat(II/III)	K[FeIIIFeII(CN)6]
+(unlösliches) Berliner Blau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+Bittersalz	Magnesiumsulfat	MgSO4
+Bleiglätte	Blei(II)-oxid	PbO
+Borax	Natriumtetraborat-Decahydrat	Na2B4O7 · 10 H2O
+Branntkalk	Calciumoxid	CaO
+Brillant	Diamant	C (kubisch)
+Bronzeblau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+Bromsilber	Silberbromid	AgBr
+Bullrichsalz	Natriumhydrogencarbonat	NaHCO3
+Carbid	Calciumcarbid	CaC2
+Carborund	Siliciumcarbid	SiC
+Chilesalpeter	Natriumnitrat	NaNO3
+Chlorkalk	Calcium-hypochlorit-chlorid	CaCl(OCl)
+Dinatriumdihydrogenpyrophosphat	Dinatriumdihydrogendiphosphat	Na2H2P2O7
+doppeltkohlensaures Natron	Natriumhydrogencarbonat	NaHCO3
+Eis	Dihydrogenoxid, Oxidan (fest)	H2O
+Eisencyanblau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+Eisenhammerschlag	Trieisentetraoxid	Fe3O4
+Ferrocyanblau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+Fixiersalz	Natriumthiosulfat	Na2S2O3
+gebrannter Kalk	Calciumoxid	CaO
+gelbes Blutlaugensalz	Kaliumhexacyanidoferrat(II)	K4[FeII(CN)6]
+Kaliumhexacyanoferrat	Kaliumhexacyanidoferrat(II)	K4[FeII(CN)6]
+gelöschter Kalk	Calciumhydroxid	Ca(OH)2
+Gips	Calciumsulfat-dihydrat	CaSO4 · 2 H2O
+Glaubersalz	Natriumsulfat-decahydrat	Na2SO4 · 10 H2O
+Hammerschlag	Trieisentetraoxid	Fe3O4
+Hirschhornsalz	Ammoniumhydrogencarbonat	NH4HCO3
+Höllenstein	Silbernitrat	AgNO3
+Stahlblau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+Jodsilber	Silberiodid	AgI
+Kalisalpeter	Kaliumnitrat	KNO3
+Kaliumpersulfat	Kaliumperoxodisulfat	K2S2O8
+Kaliumpyrosulfat	Kaliumdisulfat	K2S2O7
+Kalk	Calciumcarbonat	CaCO3
+Kalksalpeter	Calciumnitrat	Ca(NO3)2
+Kalkstickstoff	Calciumcyanamid	CaCN2
+Kalomel	Quecksilber(I)-chlorid	Hg2Cl2
+Karbid	Calciumcarbid	CaC2
+Knallsilber	Silberfulminat	AgCNO
+Knallquecksilber	Quecksilber(II)-fulminat	Hg(CNO)2
+Kochsalz	Natriumchlorid	NaCl
+Kreide	Calciumcarbonat	CaCO3
+Kupfervitriol	Kupfersulfat	CuSO4
+Löschkalk	Calciumhydroxid	Ca(OH)2
+Marmor	Calciumcarbonat	CaCO3
+Marshallsche Säure	Peroxodischwefelsäure	H2S2O8
+Mauersalpeter	Calciumnitrat	Ca(NO3)2
+Mennige	Blei(II,IV)-oxid	Pb3O4
+Natriumbicarbonat	Natriumhydrogencarbonat	NaHCO3
+Natriummetabisulfit	Natriumdisulfit	Na2S2O5
+Natriumpersulfat	Natriumperoxodisulfat	Na2S2O8
+Natriumpyrophosphat	Tetranatriumdiphosphat	Na4P2O7
+Natriumpyrosulfat	Natriumdisulfat	Na2S2O7
+Natriumpyrosulfit	Natriumdisulfit	Na2S2O5
+Natron	Natriumhydrogencarbonat	NaHCO3
+Natronsalpeter	Natriumnitrat	NaNO3
+Pariser Blau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+Pottasche	Kaliumcarbonat	K2CO3
+Präzipitat, schmelzbar	Diamminquecksilber(II)-chlorid	[Hg(NH3)2]Cl2
+Preußisch Blau	Eisen(III)-hexacyanoferrat(II/III)	FeIII[FeIIIFeII(CN)6]3
+rotes Blutlaugensalz	Kaliumhexacyanoferrat(III)	K3[FeIII(CN)6]
+Rotkali	Kaliumhexacyanoferrat(III)	K3[FeIII(CN)6]
+Schwefeleisen	Eisen(II)-sulfid	FeS
+Schwefelsilber	Silbersulfid	Ag2S
+Soda	Natriumcarbonat	Na2CO3
+Speisesalz	Natriumchlorid	NaCl
+Stanniol	Zinn	Sn
+Steinsalz	Natriumchlorid	NaCl
+Stuckgips	Calciumsulfat-dihydrat	CaSO4 · 2 H2O
+Sublimat	Quecksilber(II)-chlorid	HgCl2
+Sulfamid	Sulfuryldiamid	(NH2)2SO2
+Trockeneis	festes Kohlenstoffdioxid	CO2 (s)
+ungelöschter Kalk	Calciumoxid	CaO
+Waschsoda	Natriumcarbonat	Na2CO3
+Zinkvitriol	Zinksulfat	ZnSO4
+Zirkon	Zirconiumsilikat	ZrSiO4
+Zyankali	Kaliumcyanid	KCN

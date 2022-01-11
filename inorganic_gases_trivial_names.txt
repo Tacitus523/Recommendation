@@ -1,0 +1,10 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Ammoniak	Nitrogentrihydrid	NH3
+Blausäure	Cyanwasserstoff	HCN
+Dampf	Dihydrogenoxid, Oxidan (gasförmig)	H2O
+Knallsäure	Formonitriloxid	HCNO
+Kohlendioxid	Kohlenstoffdioxid	CO2
+Kohlenmonoxid	Kohlenstoffmonoxid	CO
+Lachgas	Distickstoffmonoxid	N2O
+Ozon	Trisauerstoff	O3
+Sulfan	Schwefelwasserstoff	H2S

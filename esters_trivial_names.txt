@@ -1,0 +1,5 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Amylacetat	Pentylethanoat	CH3COOC5H11
+Birnenäther	Pentylethanoat	CH3COOC5H11
+Essigäther	Ethylethanoat	CH3COOC2H5
+Nitroglyzerin	Glycerintrinitrat	C3H5(ONO2)3

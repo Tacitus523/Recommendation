@@ -1,0 +1,6 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Alkohol, Trinkalkohol, Spiritus, Primasprit, Weingeist	Ethanol	C2H5OH
+Amylalkohol	Pentan-1-ol	C5H11OH
+Carbinol, Holzalkohol, Holzgeist	Methanol	CH3OH
+Ethylenglycol, Glycol	Ethan-1,2-diol	CH2(OH)-CH2(OH)
+Glycerin, Glycerol	Propan-1,2,3-triol	CH2(OH)-CH(OH)-CH2(OH)

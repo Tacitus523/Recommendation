@@ -1,0 +1,2 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Ether	Diethylether	H3C-CH2-O-CH2-CH3

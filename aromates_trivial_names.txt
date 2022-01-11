@@ -1,0 +1,63 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Acetophenon	1-Phenylethanon	
+Acetophenon.svg
+Anilin	Phenylamin	
+Aniline.svg
+p-Anisaldehyd	4-Methoxybenzaldehyd	
+Anisaldehyde.svg
+Anisol	Methylphenylether, Methoxybenzol	
+Anisol.svg
+Anthrachinon	9,10-Anthracendion	
+Anthrachinon.svg
+Anthranilsäure	2-Aminobenzolcarbonsäure	
+Anthranilsäure.svg
+Benzaldehyd	Benzolcarbaldehyd	
+Benzaldehyde.png
+Benzil	1,2-Diphenylethan-1,2-dion	
+Benzil2.svg
+p-Benzochinon, 1,4-Benzochinon	Cyclohexa-2,5,dien-1,4-dion	
+P-Benzochinon.svg
+Benzoesäure	Benzolcarbonsäure	
+Benzoesäure.svg
+Benzophenon	Diphenylmethanon	
+Benzophenon.svg
+Brenzcatechin, Catechol	1,2-Benzoldiol	
+Brenzcatechin.svg
+Cumol	Isopropylbenzol, (1-Methylethyl)benzol	
+Cumol.svg
+p-Cymol	1-Isopropyl-4-methylbenzol, (1-Methylethyl)-4-methylbenzol	
+P-Cymol.svg
+Dansylchlorid	5-(Dimethylamino)-1-naphthalinsulfonylchlorid	
+Dansylchlorid.png
+Hydrochinon	1,4-Dihydroxybenzol	
+Hydrochinon.svg
+p-Kresol	4-Methyl-1-hydroxybenzol	
+P-Kresol.svg
+Mesitylen	1,3,5-Trimethylbenzol	
+Mesitylen.svg
+Phenol	Hydroxybenzol	
+Phenol2.svg
+Phthalsäure	Benzol-1,2-dicarbonsäure	
+Phthalsäure.svg
+Salicylsäure	o-Hydroxybenzoesäure	
+Salicylic acid chemical structure.png
+Stilben	(E)-Ethen-1,2-diyldibenzol	
+Trans-Stilben.svg
+Styrol	Ethenylbenzol	
+Styrol.svg
+Sulfanilsäure	4-Aminobenzolsulfonsäure	
+Sulfanilsäure.svg
+Terephthalsäure	Benzol-1,4-dicarbonsäure	
+Terephthalsäure.svg
+Thymol	5-Methyl-2-(1-methylethyl)phenol	
+Thymol2.svg
+p-Toluidin	4-Methylbenzolamin, 4-Methylanilin	
+P-Toluidin.svg
+Toluol (Toluen)	Methylbenzol	
+Toluol.svg
+Vanillin	4-Hydroxy-3-methoxybenzcarbaldehyd	
+Vanillin2.svg
+o-Xylol	1,2-Dimethylbenzol	
+Ortho-Xylol - ortho-xylene 2.svg
+Zimtsäure	3-Phenylacrylsäure	
+Zimtsäure - Cinnamic acid.svg

@@ -1,0 +1,2 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Aceton	2-Propanon/Dimethylketon	CH3(CO)CH3

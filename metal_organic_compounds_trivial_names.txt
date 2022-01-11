@@ -1,0 +1,6 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Grignard-Verbindung	Alkyl- bzw. Aryl-Magnesium-Halogenid	R−Mg−X (R=Alkylrest/Arylrest, X=Halogen)
+Metallocene (Ferrocen etc.)	Bis(cyclopentadienyl)metall (Bis(cyclopentadienyl)eisen, usw.)	
+Metallocene structure.PNG
+Tebbe-Reagenz	μ-Chlorobis(cyclopentadienyl)-(dimethylaluminium)-μ-methylentitan	
+Bild-Tebbes-Reagenz.png

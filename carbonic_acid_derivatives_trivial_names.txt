@@ -1,0 +1,3 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Harnstoff	Kohlensäurediamid	(NH2)2CO
+Phosgen	Kohlensäuredichlorid	Cl2CO

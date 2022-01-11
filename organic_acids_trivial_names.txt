@@ -1,0 +1,58 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Ameisensäure	Methansäure	HCOOH
+Essigsäure	Ethansäure	CH3COOH
+Propionsäure	Propansäure	C2H5COOH
+Buttersäure	Butansäure	C3H7COOH
+Valeriansäure	Pentansäure	C4H9COOH
+Capronsäure	Hexansäure	C5H11COOH
+Önanthsäure/Pimelinsäure	Heptansäure	C6H13COOH
+Caprylsäure	Octansäure	C7H15COOH
+Pelargonsäure	Nonansäure	C8H17COOH
+Caprinsäure	Decansäure	C9H19COOH
+Laurinsäure	Dodecansäure	C11H23COOH
+Myristinsäure	Tetradecansäure	C13H27COOH
+Palmitinsäure	Hexadecansäure	C15H31COOH
+Margarinsäure	Heptadecansäure	C16H33COOH
+Stearinsäure	Octadecansäure	C17H35COOH
+Arachinsäure	Eicosansäure	C19H39COOH
+Behensäure	Docosansäure	C21H43COOH
+Lignocerinsäure	Tetracosansäure	C23H47COOH
+Cerotinsäure	Hexacosansäure	C25H51COOH
+Montansäure	Octacosansäure	C27H53COOH
+Melissinsäure	Triacontansäure	C29H57COOH
+Acetessigsäure	3-Oxobutansäure	
+Acetessigsäure.svg
+Alanin	2-Aminopropansäure	
+Alanin - Alanine.svg
+Äpfelsäure	2-Hydroxybutan-1,4-disäure	
+Äpfelsäure3.svg
+Ascorbinsäure, Vitamin C	(R)-5-((S)-1,2-Dihydroxyethyl)- 3,4-dihydroxy- 5H-furan-2-on	
+L-Ascorbic acid.svg
+Benzilsäure	Hydroxydiphenylethansäure	
+Benzilsäure.svg
+Bernsteinsäure	1,4-Butandisäure	
+Bernsteinsäure2.svg
+Brenztraubensäure	2-Oxopropansäure	
+Brenztraubensäure.svg
+Fumarsäure	(E)-2-Butendisäure	
+Fumarsäure.svg
+GABA (γ-Aminobuttersäure)	4-Aminobutansäure	
+Gamma-Aminobuttersäure - gamma-aminobutyric acid.svg
+Glycin	2-Aminoethansäure	
+Glycin - Glycine.svg
+Glycolsäure	2-Hydroxyethansäure	
+Glykolsäure.svg
+Glyoxylsäure	Ethanalsäure	
+Glyoxylsäure.svg
+Maleinsäure	(Z)-2-Butendisäure	
+Maleinsäure.svg
+Malonsäure	1,3-Propandisäure	
+Malonsäure.svg
+Milchsäure	2-Hydroxypropansäure	
+Milchsäure.svg
+Oxalsäure	Ethandisäure	
+Oxalsäure2.svg
+Weinsäure	2,3-Dihydroxybutandisäure	
+Tartaric acid.svg
+Zitronensäure	2-Hydroxypropan-1,2,3-tricarbonsäure	
+Zitronensäure - Citric acid.svg

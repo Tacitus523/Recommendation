@@ -1,0 +1,13 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Acetylzellulose	Cellulosediacetat	(C10H14O7)n
+Dextrose	Glucose	C6H12O6
+Dinitrozellulose	Cellulosedinitrat	(C6H8O9N2)n
+Fruchtzucker	Fructose	C6H12O6
+Kollodiumwolle	Cellulosedinitrat	(C6H8O9N2)n
+Lävulose	Fructose	C6H12O6
+Malzzucker	Maltose	C12H22O11
+Milchzucker	Lactose	C12H22O11
+Nitrozellulose	Cellulosetrinitrat	(C6H7O11N3)n
+Schießbaumwolle	Cellulosetrinitrat	(C6H7O11N3)n
+Traubenzucker	Glucose	C6H12O6
+Zucker	Saccharose	C12H22O11

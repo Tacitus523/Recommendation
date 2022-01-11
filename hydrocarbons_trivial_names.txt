@@ -1,0 +1,9 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Tetrachlorkohlenstoff	Tetrachlormethan	CCl4
+Chloroform	Trichlormethan	CHCl3
+Iodoform	Triiodmethan	CHI3
+Perchlor	Tetrachlorethen	C2Cl4
+Trichlor	Trichlorethen	C2HCl3
+Freon 12	Dichlordifluormethan	CCl2F2
+Ethylen	Ethen	C2H4
+Acetylen	Ethin	C2H2

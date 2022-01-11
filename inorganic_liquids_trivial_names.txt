@@ -1,0 +1,25 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Barytwasser	Bariumhydroxid	Ba(OH)2
+Borwasser	Orthoborsäure	H3BO3
+Carosche Säure	Peroxomonoschwefelsäure	H2SO5
+Eau de Javel, Javelwasser	Kaliumhypochlorit	KOCl (aq)
+Eau de Labarraque	Natriumhypochlorit	NaOCl (aq)
+Flusssäure	Fluorwasserstoffsäure	HF
+Kalkmilch	Calciumhydroxid	Ca(OH)2
+Kalilauge	Kaliumhydroxid	KOH
+Kalkwasser	Calciumhydroxid	Ca(OH)2
+Magnesia-Milch	Magnesiumhydroxid	Mg(OH)2
+Natronlauge	Natriumhydroxid	NaOH
+Oleum	Dihydrogensulfat	H2SO4
+Pyroschwefelsäure	Dischwefelsäure	H2S2O7
+Salmiakgeist	Ammoniak	NH3
+Salpetersäure	Hydrogennitrat	HNO3
+Salzsäure	Chlorwasserstoffsäure	HCl
+Scheidewasser	Salpetersäure	HNO3
+Schwefelsäure	Dihydrogensulfat	H2SO4
+schweflige Säure	Dihydrogensulfit	H2SO3
+schweres Wasser	Deuteriumoxid	D2O
+überschweres Wasser	Tritiumoxid	T2O
+Theaterblut	Eisenthiocyanat	Fe(SCN)3
+Vitriolöl	Dihydrogensulfat	H2SO4
+Wasser	Dihydrogenoxid, Oxidan	H2O

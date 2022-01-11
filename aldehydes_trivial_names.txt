@@ -1,0 +1,7 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Acetaldehyd	Ethanal	CH3CHO
+Benzaldehyd	Phenylmethanal	C6H5CHO
+Bittermandelöl	Phenylmethanal	C6H5CHO
+Butyraldehyd	Butanal	C3H7CHO
+Formaldehyd	Methanal	HCHO
+Stilbenoxyd	Phenylmethanal	C6H5CHO

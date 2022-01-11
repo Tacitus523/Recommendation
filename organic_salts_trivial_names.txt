@@ -1,0 +1,10 @@
+Trivialname	chemische Bezeichnung	chemische Formel
+Bleizucker	Blei(II)-acetat	Pb(CH3COO)2
+Brechweinstein	Kaliumantimonyltartrat	K[C4H2O6Sb(OH)2] · 1/2 H2O
+Essigsaure Tonerde	Aluminiumdiacetat	Al(CH3COO)2OH
+Grünspan	Kupfer(II)-acetat	basisches Kupferacetat
+Meerwein-Salz (unpräzise)	Trimethyloxoniumtetrafluoroborat	
+Meerweinsalz.png
+Rochellesalz	Kalium-Natrium-Tartrat	KNaC4H4O6
+Seignettesalz	Kalium-Natrium-Tartrat	KNaC4H4O6
+Weinstein	Kaliumhydrogentartrat	KHC4H4O6
